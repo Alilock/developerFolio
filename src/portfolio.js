@@ -12,7 +12,7 @@ const splashScreen = {
   animation: splashAnimation,
   duration: 2000 // Set animation duration as per your animation
 };
-
+//amk
 // Summary And Greeting Section
 
 const illustration = {

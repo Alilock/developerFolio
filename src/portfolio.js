@@ -221,6 +221,17 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/logodefendo.jpg"),
+      projectName: "Weblash",
+      projectDesc: "Web Agency",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://weblash.az/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/logodefendo.jpg"),
       projectName: "Defendovb",
       projectDesc: "Vəkil bürosu",
       footerLink: [
